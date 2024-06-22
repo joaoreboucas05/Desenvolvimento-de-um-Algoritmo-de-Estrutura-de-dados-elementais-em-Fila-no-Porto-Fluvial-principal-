@@ -11,5 +11,4 @@ Não há tecnologias avançadas ou sistemas automatizados para monitorar e geren
 
 Os resultados da pesquisa indicam que não existem sistemas de controle avançados utilizados no porto para monitorar e gerenciar as operações de atracação.
 
-
-Perguntas Gerais 
+## Perguntas Gerais 
